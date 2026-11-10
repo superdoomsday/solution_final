@@ -1,0 +1,11 @@
+instance,core_int,core_bool,core_cnf
+unsat1,C1 C3,C1 C3,C1 C3
+unsat2,C1 C3,C1 C3,C1 C3
+unsat3,C1 C3,C1 C3,C1 C3
+unsat4,C1 C3,C1 C3,C1 C3
+unsat5,C1 C4 C5,C1 C4 C5,C1 C4 C5
+unsat6,C1 C4 C5,C1 C4 C5,C1 C4 C5
+unsat7,C1 C3,C1 C3,C1 C3
+unsat8,C1 C5,C1 C5,C1 C5
+unsat9,C1 C5,C1 C5,C1 C5
+unsat10,C1 C4 C5,C1 C4 C5,C1 C4 C5

@@ -1,0 +1,5 @@
+matplotlib==3.11.2
+pytest==9.1.1
+z3-solver==5.3.1.0
+# optional: only benchmark.py's OR-Tools comparison uses it
+ortools==9.15.6755

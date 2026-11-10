@@ -1,0 +1,11 @@
+instance,X1 max 1 exam per 3-slot day,X2 room 0 closed in slots 0-1,"X3 3 invigilators, 1 per 10",X4 min gap 3,X5 >=10 students in first 3 slots
+sat1,sat (4.7 ms),unsat (3.1 ms),sat (3.0 ms),sat (3.0 ms),sat (2.7 ms)
+sat2,unsat (3.8 ms),unsat (7.1 ms),sat (7.6 ms),unsat (5.9 ms),sat (4.5 ms)
+sat3,sat (7.4 ms),unsat (4.7 ms),sat (7.6 ms),sat (7.3 ms),sat (9.1 ms)
+sat4,sat (2.9 ms),unsat (3.2 ms),sat (3.1 ms),sat (2.9 ms),sat (3.2 ms)
+sat5,sat (6.8 ms),unsat (3.4 ms),sat (8.0 ms),sat (7.1 ms),sat (6.9 ms)
+sat6,sat (9.8 ms),sat (5.6 ms),sat (6.7 ms),sat (5.2 ms),sat (4.9 ms)
+sat7,unsat (14.6 ms),sat (10.2 ms),sat (16.1 ms),unsat (12.1 ms),sat (10.3 ms)
+sat8,unsat (22.1 ms),sat (7.8 ms),sat (8.8 ms),unsat (9.6 ms),unsat (7.0 ms)
+sat9,unsat (82.2 ms),sat (11.7 ms),sat (26.2 ms),unsat (18.5 ms),unsat (9.1 ms)
+sat10,unsat (62.3 ms),sat (12.2 ms),sat (24.7 ms),unsat (14.2 ms),unsat (9.7 ms)
